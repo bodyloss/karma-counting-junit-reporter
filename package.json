@@ -1,0 +1,26 @@
+{
+  "name": "karma-dedup-junit-reporter",
+  "version": "1.0.0",
+  "description": "Wrapper around the karma junit reporter that adds a number to each spec",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bodyloss/karma-dedup-junit-reporter.git"
+  },
+  "keywords": [
+    "karma",
+    "junit",
+    "jasmine",
+    "bamboo"
+  ],
+  "author": "Joey Ciechanowicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bodyloss/karma-dedup-junit-reporter/issues"
+  },
+  "homepage": "https://github.com/bodyloss/karma-dedup/junit-reporter#readme",
+  "dependencies": {
+    "karma": "^1.1.2",
+    "karma-junit-reporter": "^1.1.0"
+  }
+}
